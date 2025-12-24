@@ -1,0 +1,23 @@
+.txt-topic {
+    color: blueviolet;
+    background-color: lightgray;
+    font-size: 4rem;
+    font-weight: 900;
+}
+.txt-detail {
+    color: red;
+    font-size: 2rem;
+    font-style: italic;
+}
+
+.txt-topic:hover {
+    color: orange;
+    background-color: yellow;
+    cursor: pointer;
+}
+#navbar {
+    background-color: darkblue;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
